@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "watch:push": "node watch-and-push.cjs",
+    "watch:notify": "node watch-and-push.cjs --mode=notify",
+    "watch:commit": "node watch-and-push.cjs --mode=commit",
+    "watch:push": "node watch-and-push.cjs --mode=push",
     "build": "vite build",
     "preview": "vite preview"
   },
