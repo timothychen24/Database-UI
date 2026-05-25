@@ -1837,7 +1837,7 @@ function HomePage({ onStart, onCourse }) {
   return (
     <div className="home-page">
       <div style={{ maxWidth: 600, width: "100%" }}>
-        <div className="hero-title">DB Lab</div>
+        <div className="hero-title">DB Lab (auto-update demo)</div>
         <p className="hero-sub">
           情境式互動資料庫學習平台。在真實系統情境中學習 SQL、NoSQL 與資料庫選型，從銀行系統到社群平台。
         </p>
