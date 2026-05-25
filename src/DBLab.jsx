@@ -5,20 +5,20 @@ const CSS = `
   @import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Syne:wght@400;600;700;800&display=swap');
 
   :root {
-    --bg: #0a0e1a;
-    --surface: #111827;
-    --surface2: #1a2235;
-    --border: #1e2d45;
-    --accent: #00e5ff;
-    --accent2: #7c3aed;
-    --accent3: #10b981;
-    --warn: #f59e0b;
-    --danger: #ef4444;
+    --bg: #0d111b;
+    --surface: #141b2d;
+    --surface2: #1e2640;
+    --border: #2f3f5a;
+    --accent: #7dd3fc;
+    --accent2: #c084fc;
+    --accent3: #34d399;
+    --warn: #facc15;
+    --danger: #fb7185;
     --text: #e2e8f0;
-    --muted: #64748b;
-    --sql-color: #1e00ff;
+    --muted: #94a3b8;
+    --sql-color: #38bdf8;
     --nosql-color: #a78bfa;
-    --sel-color: #34d399;
+    --sel-color: #fb7185;
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
