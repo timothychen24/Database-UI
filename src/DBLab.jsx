@@ -778,8 +778,6 @@ const CSS = `
   .empty-icon { font-size: 32px; opacity: .5; }
 `;
 
-// demo: trigger watcher auto-commit
-
 // ─── DATA ─────────────────────────────────────────────────────────────────────
 
 const COURSES = [
